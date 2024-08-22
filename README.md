@@ -1,7 +1,7 @@
 ## Hi, my name is Alexander
 
 
-**I'm a beginner web developer specializing in C# and ASP.NET. I am currently studying at Sber School 21, where I am developing my software development and problem solving skills. In addition, I am studying at the Moscow Technical University of Communications and taking OTUS programming courses to deepen my knowledge and experience in this field.**
+**I'm a beginner web developer specializing in C# and ASP.NET. I am currently studying at School 21, where I am developing my software development and problem solving skills. In addition, I am studying at the Moscow Technical University of Communications and taking OTUS programming courses to deepen my knowledge and experience in this field.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasiKudasi&layout=compact)
 
